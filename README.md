@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedh21&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedh21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedh21" alt="ahmedh21" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **ahmedhussien0ah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-hussien-%f0%9f%87%b5%f0%9f%87%b8-07b007221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-hussien-%f0%9f%87%b5%f0%9f%87%b8-07b007221/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-hussien-🇵🇸" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hussien-🇵🇸" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
